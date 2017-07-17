@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="adapter_sample_item_id1" type="id" />
+    <item name="adapter_sample_item_id2" type="id" />
+    <item name="adapter_sample_item_id3" type="id" />
+    <item name="adapter_sample_item_id4" type="id" />
+
+
+</resources>
